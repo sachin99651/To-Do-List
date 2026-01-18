@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const Backend_URL = '/api/todo';
+const Backend_URL = 'https://to-do-backend-3of0.onrender.com/api/todo';
 
 export const todoService = {
   getAll: () => axios.get(Backend_URL),
