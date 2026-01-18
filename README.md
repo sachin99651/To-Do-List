@@ -113,6 +113,6 @@ frontend/
 
 ## Links
 [Frontend repository link](https://github.com/sachin99651/To-Do-List.git)  
-[Frontend Deployed Netlify Link]()  
+[Frontend Deployed Netlify Link](https://to-do-list_sch.netlify.app/)  
 [Backent repository link](https://github.com/sachin99651/to-do-backend.git)  
 [Render Deployed Api Link](https://to-do-backend-3of0.onrender.com)
